@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/Task0/">
+    <Project Path="Tyuiu.ReneDS.Sprint0.Task0.V0/Tyuiu.ReneDS.Sprint0.Task0.V1.csproj" Id="d6c5ecad-2831-4c9a-aad5-da7ef2d586fa" />
+  </Folder>
+  <Folder Name="/Task1/">
+    <Project Path="Tyuiu.ReneDS.Sprint0.Task1.V0/Tyuiu.ReneDS.Sprint0.Task1.V1.csproj" Id="c2cabf31-2234-4ccf-97c1-ee514405b179" />
+  </Folder>
+  <Folder Name="/Task2/">
+    <Project Path="Tyuiu.ReneDS.Sprint0.Task2.V1.Lib/Tyuiu.ReneDS.Sprint0.Task2.V1.Lib.csproj" Id="da028f0c-63be-4259-8f35-08d7f672b732" />
+    <Project Path="Tyuiu.ReneDS.Sprint0.Task2.V1.Test/Tyuiu.ReneDS.Sprint0.Task2.V1.Test.csproj" Id="e12cd14b-a9f9-4cf9-81df-397258b573d4" />
+    <Project Path="Tyuiu.ReneDS.Sprint0.Task2.V1/Tyuiu.ReneDS.Sprint0.Task2.V1.csproj" Id="0eadd744-e9dc-4fe9-9149-b91c1a6004c4" />
+  </Folder>
+</Solution>
